@@ -44,7 +44,7 @@ Datetime
 Clone the repository:
 
 git clone 
-cd ibps-job-scraper
+cd ibps-reqcruitment-jobs-link
 
 
 Install dependencies:
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 Just run:
 
-python scrape_ibps_jobs.py
+python file.py
 
 
 If successful, it will generate:
