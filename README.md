@@ -93,11 +93,6 @@ Notification Link
 
 Stores data in a DataFrame
 
-Saves to a CSV file
+Saves to a CSV file.
 
 
-Export to Excel
-
-📬 Contact
-
-If you want help improving the script, feel free to open an issue or ask!
