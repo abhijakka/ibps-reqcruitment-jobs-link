@@ -95,21 +95,6 @@ Stores data in a DataFrame
 
 Saves to a CSV file
 
-⚠️ Important Notes
-
-IBPS often changes their HTML layout, so scraping may require updates.
-
-Always follow IBPS’s Terms of Use when scraping data.
-
-✅ Future Enhancements (Optional)
-
-Add automatic scheduling (e.g., cron job)
-
-Add Telegram/Email alerts
-
-Add filtering of exams (PO, Clerk, SO, RRB)
-
-Add progress bar using tqdm
 
 Export to Excel
 
