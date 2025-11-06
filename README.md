@@ -43,7 +43,7 @@ Datetime
 
 Clone the repository:
 
-git clone https://github.com/yourusername/ibps-job-scraper.git
+git clone 
 cd ibps-job-scraper
 
 
